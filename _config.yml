@@ -1,6 +1,6 @@
 # general configuration
 url: http://victorroy.com
-baseurl: 'victorroy.com'
+baseurl: ''
 
 # compass configuration
 compass:
